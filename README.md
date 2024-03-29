@@ -1,6 +1,10 @@
-¡Claro! Javascript es un lenguaje de programación que se utiliza principalmente para agregar interactividad y dinamismo a las páginas web. Aquí te doy una introducción básica:
-
 ### ¿Cómo funciona JavaScript en HTML?
+
+- [Página Interactiva](interactividad.md)
+- [Javascript DOOM](Javascript-DOOM.md)
+- [Página Responsiva](Responsive-Guia.md)
+- [Páginas Modernas](Desarrollo-web-Moderno.md)
+- [Página Productividad](Aumento-de-productividad.md)
 
 1. **Incorporación en HTML**: Puedes incluir código JavaScript directamente en tu archivo HTML utilizando la etiqueta `<script>`. Por ejemplo:
    ```html
