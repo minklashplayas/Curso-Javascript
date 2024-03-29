@@ -5,7 +5,8 @@
 - [Página Responsiva](Responsive-Guia.md)
 - [Páginas Modernas](Desarrollo-web-Moderno.md)
 - [Página Productividad](Aumento-de-productividad.md)
-
+- [Usos Multiples JavaScriot](usos-multiples-javascript.md)
+- [Usos Multiples Ejemplo 2](usos-multiples-javascript-2.md)
 1. **Incorporación en HTML**: Puedes incluir código JavaScript directamente en tu archivo HTML utilizando la etiqueta `<script>`. Por ejemplo:
    ```html
    <script>
